@@ -28,3 +28,6 @@ MicroarrayQC_R/
 ├── QC_Raw/ # QC reports before normalization
 ├── QC_Normalized/ # QC reports after normalization
 ├── README.md
+
+
+Download raw CEL files from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7305 
